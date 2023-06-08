@@ -1,6 +1,8 @@
 
 const generateButton = document.getElementById("generateButton");
 const passwordResult = document.getElementById("passwordResult");
+const addButton = document.getElementById("addButton");
+const ulPasswords = document.getElementById("ulPasswords");
 
 generateButton.addEventListener("click", () => {
     const passwordLength = 10;
