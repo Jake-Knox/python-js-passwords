@@ -14,10 +14,6 @@ body{
     /* font-family: 'Zen Tokyo Zoo', cursive; */
 }
 
-#container{
-
-}
-
 .flex-col{
     display: flex;
     flex-direction: column;
