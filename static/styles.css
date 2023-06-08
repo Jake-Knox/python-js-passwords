@@ -1,17 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&family=Caveat&family=Cinzel&family=Domine&family=Open+Sans:wght@300&family=Orbitron&family=Unbounded:wght@300&family=VT323&family=Zen+Tokyo+Zoo&display=swap');
 
-
 body{
     background-color: beige;
-    /* font-family: 'Carrois Gothic', sans-serif; */
-    /* font-family: 'Caveat', cursive; */
-    /* font-family: 'Cinzel', serif; */
     font-family: 'Domine', serif;
-    /* font-family: 'Open Sans', sans-serif; */
-    /* font-family: 'Orbitron', sans-serif; */
-    /* font-family: 'Unbounded', cursive; */
-    /* font-family: 'VT323', monospace; */
-    /* font-family: 'Zen Tokyo Zoo', cursive; */
 }
 
 .flex-col{
